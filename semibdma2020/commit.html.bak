@@ -1,0 +1,143 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Big Data Management and Analytics</title>
+<!-- (en) Add your meta data here -->
+<!-- (de) Fuegen Sie hier ihre Meta-Daten ein -->
+
+<link href="css/my_layout.css" rel="stylesheet" type="text/css">
+<!--[if lte IE 7]>
+<link href="css/patches/patch_my_layout.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body>
+<!-- skip link navigation -->
+<ul id="skiplinks">
+	<li><a class="skip" href="#nav">Skip to navigation (Press Enter).</a></li>
+	<li><a class="skip" href="#col3">Skip to main content (Press Enter).</a></li>
+</ul>
+
+<div class="page_margins">
+	<div class="page">
+		<div id="header" role="banner">
+			<h3 align="center">Second International DASFAA Workshop on </h3>
+            <h1 align="center">Big Data Management and Analytics</h1>
+			<h3 align="center">April 21, 2014, Bali, Indonesia  
+In conjunction with DASFAA 2014</h3>
+<h4 align="center">Conference URL: <a href="http://www.dasfaa2014.org/">http://www.dasfaa2014.org/</a>
+<p><br>
+</p></h4>
+
+			</div>
+		<!-- begin: main navigation #nav -->
+		<div id="nav" role="navigation">
+			<div class="hlist">
+				<ul>
+					<li><a href="../bdma2014">Home</a></li>
+					<li><a href="../bdma2014/cfp.html">Call for Paper</a></li>
+					<li><a href="../bdma2014/prog.html">Program</a></li>
+                    <li><a href="../bdma2014/invite.html">Invited Speaker</a></li>
+                    <li><a href="../bdma2014/papers.html">Accepted Papers</a></li>
+					<li><a href="../bdma2014/commit.html">Committee</a></li>
+					<li><a href="../bdma2014/cu.html">Contact Us</a></li>
+
+                </ul>
+			</div>
+		</div>
+		<!-- end: main navigation -->
+        <!-- begin: main content area #main -->
+    <div id="layout-switcher" class="info">
+      <br><br><br>
+     <h2></h2><p></p><br>
+        
+		<!-- begin: main content area #main -->
+		<div id="main">
+			<!-- begin: #col1 - first float column -->
+			<div id="col1" role="complementary">
+				<div id="col1_content" class="clearfix">
+					<h2>Support</h2>
+					<p><a href="http://www.dasfaa.org/"><img src="DASFAA-Logo.jpg" width="160" height="60" alt="CMS"></a>
+
+</p></div>
+			</div>
+			<!-- end: #col1 -->
+			<!-- begin: #col2 second float column -->
+			<div id="col2" role="complementary">
+				<div id="col2_content" class="clearfix">
+				  <h2>Important Dates</h2>
+                    <ul>
+					<h4>Manuscript submissions</h4>
+					<p>January <strong>29th</strong>, 2014</p>
+					<h4>Notification of acceptance</h4>
+					<p>February 15th, 2014</p>
+					<h4>Camera-Ready deadline</h4>
+					<p>March 1st, 2014</p>
+					</ul>
+</div>
+			</div>
+			<!-- end: #col2 -->
+			<!-- begin: #col3 static column -->
+			<div id="col3" role="main">
+				<div id="col3_content" class="clearfix">
+					<h2>Workshop Program Chairpersons:</h2><p>
+                    </p><ul>
+<li>Laurent d'Orazio, laurent.dorazio@univ-bpclermont.fr, Blaise Pascal University, France</li>
+<li>Cyrus Shahabi, shahabi@usc.edu, University of Southern California, USA</li>
+<li>Ge, Yu, yuge@mail.neu.edu.cn, Northeastern University, China</li>
+<li>Hong Bonghee, bhhong@pusan.ac.kr, Pusan National University, Korea</li>
+</ul>
+<br>
+<h2>PC Members:</h2><p>
+</p><ul>
+<li>Mirna Adriani, mirna@cs.ui.ac.id, Universitas Indonesia, Indonesia </li>
+<li>Hung Ngo Ba, nbhung@cit.ctu.edu.vn, Cantho University, Vietnam </li>	
+<li>Peter Baumann, p.baumann@jacobs-university.de, Jacobs University Bremen, Germany</li>
+<li>Yeow Wei Choong, choongyw@help.edu.my, HELP University, Malaysia </li>
+<li>Jérôme Darmont, jerome.darmont@univ-lyon2.fr, Université de Lyon, France</li>
+<li>Xiaoyong Du, duyong@ruc.edu.cn, Renmin University, China</li>
+<li>Hong Gao, honggao@hit.edu.cn, Harbin Institute of Technology, China</li>
+<li>Le Gruenwald, ggruenwald@ou.edu, University of Oklahoma, USA</li>
+<li>Tan Hanh, tanhanh@ptithcm.edu.vn, Posts and Telecommunications Institute of Technology Ho Chi Minh City, Vietnam</li>
+<li>Seon Ho Kim, seonkim@usc.edu, University of Southern California, USA</li>
+<li>Jinho Kim, jhkim@kangwon.ac.kr, Kangwon National University, Korea</li>
+<li>Joonho Kwon, jhkwon@pusan.ac.kr, Pusan National University, Korea</li>
+<li>Dominique Laurent, dominique.laurent@u-cergy.fr, University of Cergy Pontoise, France</li>
+<li>Sang-goo, Lee, sglee@europa.snu.ac.kr, Seoul National University, Korea</li>
+<li>Sangjun Lee, sangjun@ssu.ac.kr, Soongsil University, Korea</li>
+<li>SangKeun Lee, yalphy@korea.ac.kr, Korea University, Korea</li>
+<li>Yoon Joon Lee, yoonjoon.lee@kaist.ac.kr, KAIST, Korea</li>
+<li>Zhanhuai Li, lizhh@nwpu.edu.cn, Northwestern Polytechnical University, China</li>
+<li>Mondher Maddouri, maddourimondher@yahoo.fr, Taibah University, Tunisia</li>
+<li>Philippe Rigaux, philippe.rigaux@cnam.fr, CNAM Paris, France</li>
+<li>Mohan Saïd Hacid, mohand-said.hacid@univ-lyon1.fr, Université de Lyon, France</li>
+<li>Stefanie Scherzinger, stefanie.scherzinger@hs-regensburg.de, Hochschule Regensburg, Germany</li>
+<li>Hyoseop Shin, hsshin@konkuk.ac.kr, Konkuk University, Korea</li>
+<li>Wook-Shin Han, wshan.postech@gmail.com, Pohang University of Science and Technology, Korea</li>
+<li>Ha-Joo Song, hajoosong@pknu.ac.kr, Pukyong National University, Korea</li>
+<li>Nicolas Spyratos, spyratos@lri.fr, University of Paris-South, France</li>
+<li>Maria Del Pilar Vilamil, mavillam@uniandes.edu.co,Universidad de Los Andes, Colombia</li>
+<li>Guoren Wang, Wanggr@mail.neu.edu.cn, Northeastern University, China</li>
+<li>Jongwook Woo, jwoo5@exchange.calstatela.edu, California State University, USA</li>
+<li>Jae Soo, Yoo, yjs@chungbuk.ac.kr, Chungbuk National University, Korea</li>
+<li>Aoying Zhou, ayzhou@sei.ecnu.edu.cn, Eastern China Normal University, China</li>
+<li>Byeong-Soo Jeong,&nbsp;jeong@khu.ac.kr, Kyung Hee University, Korea</li>
+
+</ul>
+			  </div>
+				<div id="ie_clearing">&nbsp;</div>
+				<!-- End: IE Column Clearing -->
+			</div>
+			<!-- end: #col3 -->
+		</div>
+		<!-- end: #main -->
+		<!-- begin: #footer -->
+		<div id="footer" role="contentinfo">2013 Information and Database Systems Lab. PKNU<br>
+			Layout based on <a href="http://www.yaml.de/">YAML</a>
+		</div>
+		<!-- end: #footer -->
+	</div>
+</div>
+<!-- full skip link functionality in webkit browsers -->
+<script src="./yaml/core/js/webkit-focusfix.js" type="text/javascript"></script>
+
+
+</div></body></html>

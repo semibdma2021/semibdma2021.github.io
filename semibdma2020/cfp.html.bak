@@ -1,0 +1,145 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Big Data Management and Analytics</title>
+<!-- (en) Add your meta data here -->
+<!-- (de) Fuegen Sie hier ihre Meta-Daten ein -->
+
+<link href="css/my_layout.css" rel="stylesheet" type="text/css">
+<!--[if lte IE 7]>
+<link href="css/patches/patch_my_layout.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body>
+<!-- skip link navigation -->
+<ul id="skiplinks">
+	<li><a class="skip" href="#nav">Skip to navigation (Press Enter).</a></li>
+	<li><a class="skip" href="#col3">Skip to main content (Press Enter).</a></li>
+</ul>
+
+<div class="page_margins">
+	<div class="page">
+		<div id="header" role="banner">
+			<h3 align="center">Second International DASFAA Workshop on </h3>
+            <h1 align="center">Big Data Management and Analytics</h1>
+			<h3 align="center">April 21, 2014, Bali, Indonesia  
+In conjunction with DASFAA 2014</h3>
+<h4 align="center">Conference URL: <a href="http://www.dasfaa2014.org/">http://www.dasfaa2014.org/</a>
+<p><br>
+</p></h4>
+
+			</div>
+		<!-- begin: main navigation #nav -->
+		<div id="nav" role="navigation">
+			<div class="hlist">
+				<ul>
+					<li><a href="../bdma2014">Home</a></li>
+					<li><a href="../bdma2014/cfp.html">Call for Paper</a></li>
+					<li><a href="../bdma2014/prog.html">Program</a></li>
+     				             <li><a href="../bdma2014/invite.html">Invited Speaker</a></li>
+					<li><a href="../bdma2014/papers.html">Accepted Papers</a></li>
+					<li><a href="../bdma2014/commit.html">Committee</a></li>
+					<li><a href="../bdma2014/cu.html">Contact Us</a></li>
+
+				</ul>
+			</div>
+		</div>
+		<!-- end: main navigation -->
+        <!-- begin: main content area #main -->
+    <div id="layout-switcher" class="info">
+      <br><br><br>
+      <h2></h2><p></p><br>
+
+        
+		<!-- begin: main content area #main -->
+		<div id="main">
+			<!-- begin: #col1 - first float column -->
+			<div id="col1" role="complementary">
+				<div id="col1_content" class="clearfix">
+					<h2>Support</h2>
+					<p><a href="http://www.dasfaa.org/"><img src="DASFAA-Logo.jpg" width="160" height="60" alt="CMS"></a>
+
+</p></div>
+			</div>
+			<!-- end: #col1 -->
+			<!-- begin: #col2 second float column -->
+			<div id="col2" role="complementary">
+				<div id="col2_content" class="clearfix">
+				  <h2>Important Dates</h2>
+                    <ul>
+					<h4>Manuscript submissions</h4>
+					<p>January <strong>29th</strong>, 2014</p>
+					<h4>Notification of acceptance</h4>
+					<p>February 15th, 2014</p>
+					<h4>Camera-Ready deadline</h4>
+					<p>March 1st, 2014</p>
+					</ul>
+</div>
+			</div>
+			<!-- end: #col2 -->
+			<!-- begin: #col3 static column -->
+			<div id="col3" role="main">
+				<div id="col3_content" class="clearfix">
+					<h2>Call for Papers</h2>
+                   <ul>
+BDMA 2014: Second International DASFAA Workshop on Big Data Management and Analytics<br>
+April 21, 2014, Bali, Indonesia <br>
+(In conjunction with DASFAA 2014)<br>
+Conference URL: <a href="http://www.dasfaa2014.org/"><h4>http://www.dasfaa2014.org/</h4></a>
+
+
+                   </ul>
+
+                 <h3>Topics of Interest:</h3>
+<ul>
+We solicit technical papers and position papers (without deep experimental analysis, just to include problem identifications and novel approaches to problem solving) that address all important aspects of information technologies for processing and analysing big data. Topics of interest include but are not limited to:<br></ul>
+<ul>
+<li>Big data analytics and visualization </li>
+<li>Big data management architectures </li>
+<li>Big data placement, scheduling, and optimization </li>
+<li>Big data mining</li>
+<li>Distributed file systems for Big data </li>
+<li>Programming models for Big data processing </li>
+<li>Distributed and federated databases </li>
+<li>Distributed/parallel processing for streaming big data</li>
+<li>Big data processing platform architectures</li>
+<li>Big data integration and interoperable big data modeling</li>
+<li>Real-time processing of streaming big data</li>
+<li>Real-time streaming data analysis</li>
+<li>Real-time visualization of streaming big data</li>
+<li>Streaming big data applications and challenges</li>
+<li>Economic models for data</li>
+<li>Case studies and industrial experiences</li>
+<li>Benchmarking, turning, and testing</li>
+<li>Future research challenges in management and analysis of Big Data</li>
+
+
+</ul>
+<h4>Paper Submission Guidelines: </h4>
+<ul>Papers should be submitted at <br>
+<a href="https://www.easychair.org/conferences/?conf=bdmadasfaa2014">https://www.easychair.org/conferences/?conf=bdmadasfaa2014</a>
+<p></p><p>
+Technical Papers should not exceed 15 pages in <a href="http://www.springer.com/computer/lncs/lncs+authors?SGWID=0-40209-0-0-0">LNCS (Lecture Notes in Computer Science) format</a>. Position Papers should not exceed 5 pages in&nbsp;LNCS format. The submission of papers must be in either PDF or Word format. The Authors should exclude the usage of non- English fonts to avoid the problems from reviewers' machines.</p><p>
+You may download formats by the following links:</p><p>
+LaTex2e Format: <a href="http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0#anchor5">DOWNLOAD</a> <br>
+MS Word Format: <a href="http://www.springer.com/computer/lncs?SGWID=0-164-6-793341-0">DOWNLOAD</a> <br>
+All accepted papers MUST strictly follow the <a href="http://www.springer.com/?SGWID=13-102-0-0-0#anchor2">LNCS/LNAI Authors instructions</a>.
+
+			  </p></ul></div>
+				<div id="ie_clearing">&nbsp;</div>
+				<!-- End: IE Column Clearing -->
+			</div>
+			<!-- end: #col3 -->
+		</div>
+		<!-- end: #main -->
+		<!-- begin: #footer -->
+		<div id="footer" role="contentinfo">2013 Information and Database Systems Lab. PKNU<br>
+			Layout based on <a href="http://www.yaml.de/">YAML</a>
+		</div>
+		<!-- end: #footer -->
+	</div>
+</div>
+<!-- full skip link functionality in webkit browsers -->
+<script src="./yaml/core/js/webkit-focusfix.js" type="text/javascript"></script>
+
+
+</div></body></html>
